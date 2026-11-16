@@ -31,7 +31,7 @@ Não há vídeo do C3: o carrossel é formado por imagens PNG.
 ## Exemplo de execução
 
 ```bash
-python3 -I /root/.claude/skills/designoai-trello-uploader/scripts/trello_upload.py \
+python3 -I .claude/skills/designoai-trello-uploader/scripts/trello_upload.py \
   --board 6aefb91d7f27945c83cd49ac \
   --item "V4=/caminho/azclix/AZCLIX_V4.mp4" \
   --item "V5=/caminho/azclix/AZCLIX_V5.mp4" \

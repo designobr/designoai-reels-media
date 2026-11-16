@@ -61,7 +61,7 @@ Não peça que sejam coladas no chat.
 ## Comando
 
 ```bash
-python3 -I /root/.claude/skills/designoai-trello-uploader/scripts/trello_upload.py \
+python3 -I .claude/skills/designoai-trello-uploader/scripts/trello_upload.py \
   --board <ID-ou-trecho-do-quadro> \
   --item "V4=/caminho/AZCLIX_V4.mp4" \
   --item "C3=https://exemplo.com/c3_card1.png|C3_card1.png" \
